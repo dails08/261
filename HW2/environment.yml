@@ -1,0 +1,4 @@
+name: std-env
+dependencies:
+- python=3
+- anaconda
