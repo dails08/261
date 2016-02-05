@@ -1,0 +1,7 @@
+name: week4-env
+dependencies:
+- python=2.7
+- anaconda
+- pip
+- pip:
+    - mrjob
