@@ -1,0 +1,4 @@
+name: 261-env
+dependencies:
+- python=2.7
+- ipython
